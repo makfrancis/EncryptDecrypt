@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40db01b0-019a-4294-9356-7732842c365f" name="Default Changelist" comment="" />
+    <list default="true" id="40db01b0-019a-4294-9356-7732842c365f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listOfAccountsTest.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listOfAccounts.csv" beforeDir="false" afterPath="$PROJECT_DIR$/listOfAccounts.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/francis/example/file/EncryptedPasswordLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/francis/example/file/EncryptedPasswordLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/francis/example/file/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/francis/example/file/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/francis/example/file/EncryptedPasswordLoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/francis/example/file/EncryptedPasswordLoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/francis/example/file/EncryptedPasswordLogin.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/francis/example/file/EncryptedPasswordLogin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/francis/example/file/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/francis/example/file/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/francis/example/file/EncryptedPasswordLoginTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/francis/example/file/EncryptedPasswordLoginTest.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,13 +24,32 @@
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/src/test/java/com/francis/example/file/EncryptedPasswordLoginTest.java">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="816">
+                    <caret line="48" column="59" selection-start-line="48" selection-start-column="59" selection-end-line="48" selection-end-column="59" />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/francis/example/file/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+            <state relative-caret-position="340">
+              <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -27,17 +57,53 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/francis/example/file/EncryptedPasswordLogin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+            <state relative-caret-position="318">
+              <caret line="136" column="50" selection-start-line="136" selection-start-column="30" selection-end-line="136" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/francis/example/addressbook/AddressBook.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1130">
+              <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/francis/example/file/EncryptedPasswordLoginTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/francis/example/addressbook/AddressBookTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+            <state relative-caret-position="281">
+              <caret line="94" column="44" selection-start-line="94" selection-start-column="44" selection-end-line="94" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/francis/example/reader/ProcessTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="30" column="60" lean-forward="true" selection-start-line="30" selection-start-column="60" selection-end-line="30" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/listOfAccountsTest.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="12" selection-start-column="12" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/listOfAccounts.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -67,6 +133,8 @@
       <find>c.</find>
       <find>register</find>
       <find>File</find>
+      <find>write</find>
+      <find>writefile</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -75,10 +143,12 @@
       <dir>C:\Users\mark.f.v.macandile\IdeaProjects\Tester</dir>
     </dirStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/francis/example/test/Record.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/francis/example/reader/lol.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/francis/example/reader/Tester.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/francis/example/login/LoginTest.java" />
@@ -126,9 +196,10 @@
         <option value="$PROJECT_DIR$/src/main/java/com/francis/example/changepass2/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/francis/example/changepass2/EncryptDecrypt.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/francis/example/file/Account.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/francis/example/file/EncryptedPasswordLoginTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/francis/example/file/EncryptedPasswordLogin.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/francis/example/file/Main.java" />
+        <option value="$PROJECT_DIR$/listOfAccountsTest.csv" />
+        <option value="$PROJECT_DIR$/src/main/java/com/francis/example/file/EncryptedPasswordLogin.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/francis/example/file/EncryptedPasswordLoginTest.java" />
       </list>
     </option>
   </component>
@@ -140,11 +211,11 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="640" />
-    <option name="y" value="73" />
+    <option name="x" value="-7" />
     <option name="width" value="974" />
-    <option name="height" value="528" />
+    <option name="height" value="1047" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -183,6 +254,15 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tester" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tester" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="addressbook" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Tester" type="b2602c69:ProjectViewProjectNode" />
@@ -241,6 +321,42 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="example" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Tester" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tester" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="addressbook" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tester" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tester" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="breakdown" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tester" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tester" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="file" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tester" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tester" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="reader" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -249,7 +365,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551337973867" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551341488418" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
@@ -270,6 +386,9 @@
       <recent name="" />
       <recent name="groovy.util.GroovyTestCase" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mark.f.v.macandile\IdeaProjects\Tester" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -283,46 +402,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="FileEncDec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.francis.example.FileEncDec" />
-      <module name="Tester" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.francis.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.francis.example.changepassword.Main" />
-      <module name="Tester" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.francis.example.changepassword.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.francis.example.changepass2.Main" />
-      <module name="Tester" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.francis.example.changepass2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.EncryptedPasswordLoginTest.writeFile">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.francis.example.file.Main" />
       <module name="Tester" />
@@ -336,26 +416,77 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.francis.example.ll" />
+    <configuration name="EncryptedPasswordLoginTest.login" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Tester" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.francis.example.*" />
+          <option name="PATTERN" value="com.francis.example.file.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.francis.example.file" />
+      <option name="MAIN_CLASS_NAME" value="com.francis.example.file.EncryptedPasswordLoginTest" />
+      <option name="METHOD_NAME" value="login" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EncryptedPasswordLoginTest.readFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Tester" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.francis.example.file.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.francis.example.file" />
+      <option name="MAIN_CLASS_NAME" value="com.francis.example.file.EncryptedPasswordLoginTest" />
+      <option name="METHOD_NAME" value="readFile" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EncryptedPasswordLoginTest.writeFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Tester" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.francis.example.file.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.francis.example.file" />
+      <option name="MAIN_CLASS_NAME" value="com.francis.example.file.EncryptedPasswordLoginTest" />
+      <option name="METHOD_NAME" value="writeFile" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProcessTest.getLateTextTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Tester" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.francis.example.reader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.francis.example.reader" />
+      <option name="MAIN_CLASS_NAME" value="com.francis.example.reader.ProcessTest" />
+      <option name="METHOD_NAME" value="getLateTextTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.EncryptedPasswordLoginTest.writeFile" />
+        <item itemvalue="JUnit.ProcessTest.getLateTextTest" />
+        <item itemvalue="JUnit.EncryptedPasswordLoginTest.readFile" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.FileEncDec" />
-        <item itemvalue="Application.ll" />
+        <item itemvalue="JUnit.EncryptedPasswordLoginTest.login" />
       </list>
     </recent_temporary>
   </component>
@@ -373,42 +504,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AddressBookTest_add - 2019.02.26 at 13h 32m 31s.xml">
-      <configuration name="AddressBookTest.add" configurationId="JUnit" />
+    <history-entry file="EncryptedPasswordLoginTest_register - 2019.02.28 at 15h 32m 55s.xml">
+      <configuration name="EncryptedPasswordLoginTest.register" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AddressBookTest_edit - 2019.02.26 at 13h 35m 48s.xml">
-      <configuration name="AddressBookTest.edit" configurationId="JUnit" />
+    <history-entry file="EncryptedPasswordLoginTest_registerErrorUsernameExists - 2019.02.28 at 15h 34m 28s.xml">
+      <configuration name="EncryptedPasswordLoginTest.registerErrorUsernameExists" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AddressBookTest_delete - 2019.02.26 at 13h 37m 49s.xml">
-      <configuration name="AddressBookTest.delete" configurationId="JUnit" />
+    <history-entry file="EncryptedPasswordLoginTest_login - 2019.02.28 at 15h 38m 01s.xml">
+      <configuration name="EncryptedPasswordLoginTest.login" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AddressBookTest_delete - 2019.02.26 at 13h 38m 01s.xml">
-      <configuration name="AddressBookTest.delete" configurationId="JUnit" />
+    <history-entry file="EncryptedPasswordLoginTest_login - 2019.02.28 at 15h 43m 22s.xml">
+      <configuration name="EncryptedPasswordLoginTest.login" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AddressBookTest_delete - 2019.02.26 at 13h 38m 11s.xml">
-      <configuration name="AddressBookTest.delete" configurationId="JUnit" />
+    <history-entry file="EncryptedPasswordLoginTest_readFile - 2019.02.28 at 15h 53m 17s.xml">
+      <configuration name="EncryptedPasswordLoginTest.readFile" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AddressBookTest_generateUpdatedReportTest - 2019.02.26 at 13h 51m 12s.xml">
-      <configuration name="AddressBookTest.generateUpdatedReportTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AddressBookTest_generateUpdatedReportTest - 2019.02.26 at 13h 51m 24s.xml">
-      <configuration name="AddressBookTest.generateUpdatedReportTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AddressBookTest_generateUpdatedReportTest - 2019.02.26 at 13h 51m 31s.xml">
-      <configuration name="AddressBookTest.generateUpdatedReportTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ProcessTest_getLateTextTest - 2019.02.27 at 09h 17m 19s.xml">
+    <history-entry file="ProcessTest_getLateTextTest - 2019.02.28 at 16h 00m 20s.xml">
       <configuration name="ProcessTest.getLateTextTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RecordTest_loginTest - 2019.02.27 at 12h 04m 52s.xml">
-      <configuration name="RecordTest.loginTest" configurationId="JUnit" />
+    <history-entry file="EncryptedPasswordLoginTest_writeFile - 2019.02.28 at 16h 05m 47s.xml">
+      <configuration name="EncryptedPasswordLoginTest.writeFile" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EncryptedPasswordLoginTest_writeFile - 2019.02.28 at 16h 07m 44s.xml">
+      <configuration name="EncryptedPasswordLoginTest.writeFile" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EncryptedPasswordLoginTest_writeFile - 2019.02.28 at 16h 09m 02s.xml">
+      <configuration name="EncryptedPasswordLoginTest.writeFile" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EncryptedPasswordLoginTest_writeFile - 2019.02.28 at 16h 09m 14s.xml">
+      <configuration name="EncryptedPasswordLoginTest.writeFile" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20415778" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20415778" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -417,7 +548,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32827735" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.312026" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.312026" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -435,6 +566,34 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.4190372" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32827735" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31509846" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32932165" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32394367" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout-to-restore>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -444,14 +603,6 @@
           <line>6</line>
           <properties />
           <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/test/java/com/francis/example/addressbook/AddressBookTest.java</url>
-          <line>75</line>
-          <properties class="com.francis.example.addressbook.AddressBookTest" method="delete">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/test/java/com/francis/example/reader/ProcessTest.java</url>
@@ -465,7 +616,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/francis/example/reader/Tester.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/francis/example/newlearners/Details.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -593,13 +743,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/francis/example/addressbook/AddressBookTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="94" column="44" selection-start-line="94" selection-start-column="44" selection-end-line="94" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AddressBook.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -616,13 +759,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/result.csv">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/francis/example/reader/ProcessTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/francis/example/bootcampspan/Holidays.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -690,13 +826,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/francis/example/addressbook/AddressBook.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/francis/example/login/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -756,13 +885,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/listOfAccounts.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/francis/example/changepass2/EncryptDecrypt.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="185">
@@ -777,24 +899,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/francis/example/file/EncryptedPasswordLoginTest.java">
+    <entry file="file://$PROJECT_DIR$/listOfAccounts.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        <state>
+          <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/francis/example/file/EncryptedPasswordLogin.java">
+    <entry file="file://$PROJECT_DIR$/listOfAccountsTest.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/francis/example/reader/ProcessTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="60" lean-forward="true" selection-start-line="30" selection-start-column="60" selection-end-line="30" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/francis/example/addressbook/AddressBookTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="94" column="44" selection-start-line="94" selection-start-column="44" selection-end-line="94" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/francis/example/file/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+        <state relative-caret-position="340">
+          <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/francis/example/file/EncryptedPasswordLogin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="136" column="50" selection-start-line="136" selection-start-column="30" selection-end-line="136" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/francis/example/addressbook/AddressBook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1130">
+          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/francis/example/file/EncryptedPasswordLoginTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="59" selection-start-line="48" selection-start-column="59" selection-end-line="48" selection-end-column="59" />
         </state>
       </provider>
     </entry>

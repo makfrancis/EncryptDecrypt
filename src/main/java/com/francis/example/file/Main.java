@@ -20,7 +20,7 @@ public class Main {
 				enc.registerScanner();
 				break;
 			case 2:
-				enc.login();
+				enc.loginScanner();
 				flag = false;
 				break;
 
